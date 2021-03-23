@@ -1,6 +1,6 @@
 const body = document.querySelector('body')
 const button = document.querySelector('button')
-const colors = ['pink','red','orange','purple','blue','black','violet','green','brown']
+const colors = ['pink','red','orange','purple','blue','black','violet','green','brown','yellow']
 
 body.style.backgroundColor = 'white'
 button.addEventListener('click', changeBackground)
