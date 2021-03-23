@@ -1,0 +1,38 @@
+button {
+	display: block;
+	text-align: center;
+  	font-family: 'Tangerine';
+	font-style: normal;
+	color: gray;
+	text-decoration: none;
+	margin-right: auto;
+	margin-left: auto;
+	top: 45%;
+	left: 45%;
+	position: absolute;
+	text-align: center;
+}
+
+button:hover {
+	background-color: #bebebe;
+}
+
+.container {
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.center {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.btn {
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+	margin-right: auto;
+	margin-left: auto;
+}
